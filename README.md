@@ -17,6 +17,13 @@ This project analyzes:
 - Includes stay duration, severity, department, ward type, and admission revenue
 - Data cleaned and prepared for analysis using Python
 
+## Dataset
+- File: `data/hospital_los_data.csv`
+- Type: Anonymized hospital patient data
+- Used in:
+  - SQL queries for aggregation
+  - Python for EDA
+  - Power BI for dashboards
 
 
 ## Tools & Technologies
